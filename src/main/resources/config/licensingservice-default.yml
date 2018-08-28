@@ -1,0 +1,9 @@
+spring:
+  datasouce:
+    url: jdbc:h2:mem:default
+    username: sa
+    passowrd:
+    driver-class-name: org.h2.Driver
+    
+properties:
+  comment: License created with Default confugration
